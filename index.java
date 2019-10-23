@@ -42,7 +42,7 @@ public class TicTacToe
             c=t3.check(N);
             if(c==3)
             {
-                System.out.println("\tX is the winner");
+                System.out.println("\tX is the Winner");
                 k++;
                 break;
             }
